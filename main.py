@@ -4,3 +4,5 @@
 # 3. cd venv/bin/source activate
 # 4. cd venv/bin/deactivate
 
+import pandas as pd
+import matplotlib.pyplot as plt
